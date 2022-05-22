@@ -1,0 +1,3 @@
+https://lab.hakim.se/coil/
+http://hughsk.io/ludum-dare-27/
+https://lutzroeder.github.io/digger/
